@@ -38,11 +38,3 @@ Olá, me chamo Gabriel Peres Pinto da Silva, tenho 19 anos. Estudante de Anális
     style="padding-right: 10px;"
     align="left"
 />
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    align="left"
-/>
